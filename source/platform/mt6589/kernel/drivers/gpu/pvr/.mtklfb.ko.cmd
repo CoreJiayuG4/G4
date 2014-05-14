@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6589/kernel/drivers/gpu/pvr/mtklfb.ko := /home/vredniiy/arm-eabi-4.8-master/bin/arm-eabi-ld.bfd -EL -r  -T /home/vredniiy/android_kernel/n/scripts/module-common.lds --build-id  -o mediatek/platform/mt6589/kernel/drivers/gpu/pvr/mtklfb.ko mediatek/platform/mt6589/kernel/drivers/gpu/pvr/mtklfb.o mediatek/platform/mt6589/kernel/drivers/gpu/pvr/mtklfb.mod.o

@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6589/kernel/drivers/gpu/built-in.o :=  rm -f mediatek/platform/mt6589/kernel/drivers/gpu/built-in.o; /home/vredniiy/arm-eabi-4.8-master/bin/arm-eabi-ar rcsD mediatek/platform/mt6589/kernel/drivers/gpu/built-in.o
